@@ -1,4 +1,4 @@
-# AlexaCusomerMusicPlaylist
+# AlexaCustomMusicPlaylist
 
  Create your own playlist for Alexa.
  
